@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Bhargavvamsi/Bhargavvamsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Bhargav Vamsi Musuluri
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a passionate and motivated student currently pursuing Masters at Northwest Missouri State University. My journey in Computer Science has fueled my curiosity and drive for learning.
+
+## Projects
+
+- **Project 1:** I have worked on TechMahindra as a Software Engineer with role as QA.
+
+## Interests
+
+- Developing Web Apps
+- Automation
